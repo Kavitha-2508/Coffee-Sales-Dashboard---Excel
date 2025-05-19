@@ -1,34 +1,15 @@
-# Coffee-Sales-Dashboard---Excel
-Excel dashboard analyzes coffee sales performance across different regions, roast types, package sizes, and customer segments.
+# Coffee Sales Dashboard - Excel
 
-The dashboard allows stakeholders to track trends and identify key sales insights.
+## Project Overview:
+This Excel dashboard provides a visual summary of coffee sales data over a 3-year period across multiple regions.
 
-## Key Insights
-- Sales trends over time (2019–2022)
-- Country-wise sales performance
-- Sales by coffee roast and size
-- Top 5 customers by total purchase value
+## Features:
+- Time Slicer for Date Filtering
+- Interactive Segment Filters (Roast Type, Size, Loyalty Card)
+- Sales Breakdown by Country & Customer
+- Trend Analysis over Time
 
-## Dashboard Features
-- Slicers for:
-  - Order Date (Year and Month)
-  - Roast Type (Dark, Light, Medium)
-  - Package Size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg)
-  - Loyalty Card filter
-- Line chart displaying total sales over time
-- Bar charts showing:
-  - Sales by Country
-  - Top 5 Customers
-- Clean layout and color-coded coffee type indicators
+## Tools Used:
+- Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
-## Files Included
-- `Coffee_Sales_Dashboard.xlsx` – Excel dashboard file
-- `Dashboard_Coffee_Sales_Analysis.png` – Dashboard screenshot
-- `README.md` – Documentation and dashboard description
-
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning and Formatting
+- ![Dashboard_Coffee Sales Analysis](https://github.com/user-attachments/assets/ff4c351b-1323-4b42-9eed-81e27aefba82)
